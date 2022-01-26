@@ -1,16 +1,16 @@
 - company: UAR GRICAD, CNRS
   roles:
-    - role: Head of Support and expertise team
-      details: "Within **[GRICAD](https://gricad.univ-grenoble-alpes.fr)**, providing infrastructures, services and expertise around scientific (intensive) computing and research data management for the Grenoble research communities and their collaborators, I participate and coordinate the activities of support and assistance of the users of our services. I am involved as an expert in many local, regional, national and European scientific and digital infrastructures projects. A large part of my activity is also dedicated to the transfer of knowledge/skills around scientific computing, scientific software development and research data management."
+    - role: Responsable de l'équipe "Support et expertise"
+      details: "Au sein de **[l'UAR GRICAD](https://gricad.univ-grenoble-alpes.fr)**, je participe et coordonne les activités de support et d'accompagnement des utilisateurs de nos services. Je suis impliqué en tant qu'expert dans de nombreux projets scientifiques locaux, régionaux, nationaux et européens. Une grande partie de mon activité est dédiée également au transfert de connaissances/compétences autour du calcul scientifique, du développement de logiciels scientifiques et à la gestion des données de la recherche."
       date: "09.2019 -  Present"
 
-    - role: HPC Support engineer
-      details: "My role as a support engineer covered first of all technical aspects relative to HPC platforms. Then on the basis of the projects and software codes of the users of the GriCAD platforms, I proposed expertises on the deployment of scientific software for HPC as well as techniques to improve and optimize their computations."
+    - role: Ingénieur support HPC
+      details: "Mon rôle en tant qu'ingénieur support recouvrait tout d’abord des aspects techniques (e.g. réponses aux problèmes de compilation et d’exécution des logiciels des utilisateurs sur les machines de calculs). Sur la base des projets et des codes logiciels des utilisateurs des plateformes GriCAD, je proposais des expertises sur le déploiement des logiciels scientifiques pour le HPC ainsi que des techniques pour améliorer leurs codes et usages des plateformes GriCAD (HPC, GPU, cloud computing)."
       date: "03.2017 -  08.2019"
 
 - company: NEMO Dev Team & MEOM Team, CNRS
   roles: 
-    - role: Scientific computing expert and developer
-      details: "As a member of the MEOM team of the IGE laboratory, Grenoble, and as a member of the development team of the main software for modeling the dynamic ocean and its interfaces, NEMO, my role was to methodologically accompany the scientists on the design and implementation of numerical experiments in the HPC context of ocean modeling."
+    - role: Développeur et expert en calcul scientifique
+      details: "À la fois membre de l'équipe MEOM du laboratoire IGE, Grenoble et membre de l'équipe de développeur du principal logiciel de modélisation de l'océan dynamique et de ses interfaces NEMO, mon rôle était d'accompagner méthodlogiquement les scientifiques sur le design et la mise en place des expérimentations numériques dans le contexte HPC en modélisation océanique."
       date: "03.2012 - 02.2017"
 

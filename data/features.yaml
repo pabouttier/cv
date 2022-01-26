@@ -1,33 +1,32 @@
 about:
   name: Pierre-Antoine 
         Bouttier
-  tagline: Scientific computing expert
+  tagline: Expert en calcul scientifique
   email: pierre-antoine.bouttier@univ-grenoble-alpes.fr
   links:
     - title: /in/pierre-antoine-bouttier
-      url: https://tr.linkedin.com/in/mertbakir
+      url: https://fr.linkedin.com/in/mertbakir
       icon: fab fa-linkedin
     - title: pabouttier
       url: https://github.com/pabouttier
       icon: fab fa-github
   details: |
-    Coming from a background in applied mathematics, throughout my experiences, I have always kept this taste to be at the interface between numerical methodologies, technologies used and the problems and questions of all scientific communities. The main places that translate this orientation are training and technical and scientific animation, expertise (within projects, through software developments) around scientific computing and research data management, and technical and methodological support to the use of complex digital platforms. 
+    Issu d'une formation en mathématiques appliquées, au fil de mes expériences, j'ai toujours conserver ce goût d'être à l'interface entre les méthodologies numériques, les technologies employées et les problématiques et questionnements de toutes les communautés scientifiques. Les principaux lieux qui traduisent cette orientation sont la formation et l'animation technique et scientifique, l'expertise (au sein de projets, à travers des développements logiciels) autour du calcul scientifique et de la gestion des données de la recherche, ainsi qu'au soutien technique et méthodologique à l'utilisation de plateformes numériques complexes.
 
 
-skills:
-  - groupName: Sci. Comp.
+Compétences:
+  - groupName: Calcul scientifique
     list:
       - HPC, HTC, GPU comp.
-      - Numerical methods., Optimization
+      - Méthodes numériques, Optimisation
       - MPI, OpenMP
-  - groupName: Programming & DevOps skills
+  - groupName: Programmation et outils DevOps
     list:
       - Python - Julia - Fortran
       - Git - Gitlab - CI/CD - markdown - SSG
       - Nix - Guix - Conda - Docker - Singularity
-  - groupName: Teaching & Outreach
-  - groupName: Team & projects management
-
+  - groupName: Formation et animation
+  - groupName: Gestion d'équipe et de projets
 
 # interests:
 #   - Data Science
@@ -35,11 +34,11 @@ skills:
 #   - Optimization Problems
 
 languages:
-  - name: French
+  - name: Français
     level: Native
 
-  - name: English
-    level: Professional
+  - name: Anglais
+    level: Professionnel
 
 # This will use the default widget: "details-list"
 awards:

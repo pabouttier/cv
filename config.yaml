@@ -1,5 +1,5 @@
 baseURL: "/"
-languageCode: "en-us"
+languageCode: "fr-fr"
 title: "Resume | P-A Bouttier"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
@@ -56,14 +56,14 @@ params:
     links: true
   side:
     - feature: education
-    - feature: skills
+    - feature: Compétences
       widget: word-list
       style: title-list # list, compact, title-list
     - feature: languages
   pages:
     - features:
         - feature: about
-          title: About Me
+          title: À propos de moi
         - feature: experience
     # - features:
     #     - feature: projects
