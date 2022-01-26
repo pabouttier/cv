@@ -1,0 +1,16 @@
+- company: UAR GRICAD, CNRS
+  roles:
+    - role: Head of Support and expertise team
+      details: "Within **[GRICAD](https://gricad.univ-grenoble-alpes.fr)**, providing infrastructures, services and expertise around scientific (intensive) computing and research data management for the Grenoble research communities and their collaborators, I participate and coordinate the activities of support and assistance of the users of our services. I am involved as an expert in many local, regional, national and European scientific and digital infrastructures projects. A large part of my activity is also dedicated to the transfer of knowledge/skills around scientific computing, scientific software development and research data management."
+      date: "09.2019 -  Present"
+
+    - role: HPC Support engineer
+      details: "My role as a support engineer covered first of all technical aspects relative to HPC platforms. Then on the basis of the projects and software codes of the users of the GriCAD platforms, I proposed expertises on the deployment of scientific software for HPC as well as techniques to improve and optimize their computations."
+      date: "03.2017 -  08.2019"
+
+- company: NEMO Dev Team & MEOM Team, CNRS
+  roles: 
+    - role: Scientific computing expert and developer
+      details: "As a member of the MEOM team of the IGE laboratory, Grenoble, and as a member of the development team of the main software for modeling the dynamic ocean and its interfaces, NEMO, my role was to methodologically accompany the scientists on the design and implementation of numerical experiments in the HPC context of ocean modeling."
+      date: "03.2012 - 02.2017"
+

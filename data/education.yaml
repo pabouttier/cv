@@ -1,0 +1,8 @@
+- name: "Ph.D in Applied Mathematics"
+  university: "Université Grenoble Alpes, France"
+  date: "2009 - 2013"
+- name: "Msc. Applied Mathematics Engineering"
+  university: "INSA Toulouse, France"
+  # more: "English - with Thesis" # Optional field, if you want to add a non-standard line.
+  date: "2004- 2009"
+

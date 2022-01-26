@@ -1,0 +1,71 @@
+about:
+  name: Pierre-Antoine 
+        Bouttier
+  tagline: Scientific computing expert
+  email: pierre-antoine.bouttier@univ-grenoble-alpes.fr
+  links:
+    - title: /in/pierre-antoine-bouttier
+      url: https://tr.linkedin.com/in/mertbakir
+      icon: fab fa-linkedin
+    - title: pabouttier
+      url: https://github.com/pabouttier
+      icon: fab fa-github
+  details: |
+    Coming from a background in applied mathematics, throughout my experiences, I have always kept this taste to be at the interface between numerical methodologies, technologies used and the problems and questions of all scientific communities. The main places that translate this orientation are training and technical and scientific animation, expertise (within projects, through software developments) around scientific computing and research data management, and technical and methodological support to the use of complex digital platforms. 
+
+
+skills:
+  - groupName: Sci. Comp.
+    list:
+      - HPC, HTC, GPU comp.
+      - Numerical methods., Optimization
+      - MPI, OpenMP
+  - groupName: Programming & DevOps skills
+    list:
+      - Python - Julia - Fortran
+      - Git - Gitlab - CI/CD - markdown - SSG
+      - Nix - Guix - Conda - Docker - Singularity
+  - groupName: Teaching & Outreach
+  - groupName: Team & projects management
+
+
+# interests:
+#   - Data Science
+#   - AI Applications
+#   - Optimization Problems
+
+languages:
+  - name: French
+    level: Native
+
+  - name: English
+    level: Professional
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Supervised Learning: Regression"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/605/ # This link will be on title level.
+
+  - title: "Supervised Learning: Classification"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/388/
