@@ -7,9 +7,6 @@ about:
     - title: /in/pierre-antoine-bouttier
       url: https://fr.linkedin.com/in/mertbakir
       icon: fab fa-linkedin
-    - title: pabouttier
-      url: https://github.com/pabouttier
-      icon: fab fa-github
   details: |
     Issu d'une formation en mathématiques appliquées, au fil de mes expériences, j'ai toujours conservé ce goût d'être à l'interface entre les méthodologies numériques, les technologies employées et les problématiques et questionnements de toutes les communautés scientifiques. Les principaux lieux qui traduisent cette orientation sont la formation et l'animation technique et scientifique, l'expertise (au sein de projets, à travers des développements logiciels) autour du calcul scientifique et de la gestion des données de la recherche, ainsi qu'au soutien technique et méthodologique à l'utilisation de plateformes numériques complexes.
 
@@ -23,7 +20,7 @@ Compétences:
   - groupName: Programmation et outils DevOps
     list:
       - Python - Julia - Fortran
-      - Git - Gitlab - CI/CD - markdown - SSG
+      - Git - Gitlab - CI/CD - Markdown - SSG
       - Nix - Guix - Conda - Docker - Singularity
   - groupName: Formation et animation
   - groupName: Gestion d'équipe et de projets
