@@ -81,13 +81,13 @@ params:
     show: true
     credits: true
     footnote: >-
-      You can print this resume in A4 size or save as pdf. | Last update on 2020-09-01.
+      You can print this resume in A4 size or save as pdf. | Last update on 2024-07-24.
     links:
-      - prefix: Contact me on
+      - prefix: Pour me contacter sur
         title: Linkedin
         url: 'https://linkedin.com/in/mertbakir/'
         icon: fab fa-linkedin
-      - prefix: Check out my
-        title: Website
-        url: 'https://mertbakir.gitlab.io/about/'
+      - prefix: ou par 
+        title: mail
+        url: 'mailto:pierre-antoine.bouttier@univ-grenoble-alpes.fr'
         icon: fas fa-globe
