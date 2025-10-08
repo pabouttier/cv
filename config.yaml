@@ -81,11 +81,11 @@ params:
     show: true
     credits: true
     footnote: >-
-      You can print this resume in A4 size or save as pdf. | Last update on 2024-07-24.
+      Vous pouvez imprimer ce CV au format A4 ou l'enregistrer en pdf. | Last update on 2025-07-24.
     links:
       - prefix: Pour me contacter sur
         title: Linkedin
-        url: 'https://linkedin.com/in/mertbakir/'
+        url: 'https://www.linkedin.com/in/pierre-antoine-bouttier/'
         icon: fab fa-linkedin
       - prefix: ou par 
         title: mail
